@@ -6,7 +6,8 @@ Prueba Tecnica Integracion Unicomer
 - Filtrar los feriados por tipo y rango de fechas.
 - Respuestas en JSON y XML.
 - Contenerización con Docker.
-- 
+-debera estar configurado el GraalVM para java21
+
 ## Tecnologías
 
 - **Spring Boot 3.3** (con soporte de Spring Native)
